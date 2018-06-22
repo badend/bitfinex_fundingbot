@@ -1,0 +1,2 @@
+# fundingbot
+# bitfinex_fundingbot
